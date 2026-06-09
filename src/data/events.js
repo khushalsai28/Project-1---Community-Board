@@ -1,83 +1,84 @@
+
 const events = [
   {
     id: 1,
-    title: 'Community Park Cleanup',
-    date: '2026-06-12',
-    location: 'Riverside Park',
-    description: 'Join neighbors to clean the park and enjoy refreshments.',
-    link: 'https://example.org/cleanup'
+    title: 'Birria-Landia',
+    date: 'Open Daily',
+    location: 'Downtown Food Alley',
+    description: 'Rich birria tacos with homemade consommé.',
+    link: 'https://example.org/birria-landia'
   },
   {
     id: 2,
-    title: 'Local Farmers Market',
-    date: 'Every Saturday',
-    location: 'Main St Plaza',
-    description: 'Fresh produce and artisan stalls from local vendors.',
-    link: 'https://example.org/farmers'
+    title: 'Mysttik Masala',
+    date: 'Fri–Sun',
+    location: 'Market Street Lot',
+    description: 'Bold Indian street food — biryani, rolls, and chutneys.',
+    link: 'https://example.org/mysttik-masala'
   },
   {
     id: 3,
-    title: 'Youth Soccer Practice',
-    date: 'Wed & Sat',
-    location: 'Field 3',
-    description: 'Open for ages 8-14. Bring cleats and water.',
-    link: 'https://example.org/soccer'
+    title: 'The Halal Guys',
+    date: 'Weekends',
+    location: 'Civic Plaza',
+    description: 'Chicken and gyro platters with signature white sauce.',
+    link: 'https://example.org/halal-guys'
   },
   {
     id: 4,
-    title: 'Coding Workshop: Intro to React',
-    date: '2026-06-20',
-    location: 'Library Room B',
-    description: 'Free beginner-friendly workshop; laptops encouraged.',
-    link: 'https://example.org/react-workshop'
+    title: 'Tasty Tacos',
+    date: 'Wed & Sat',
+    location: 'Riverside Park Entrance',
+    description: 'Classic tacos with fresh salsas and house-made tortillas.',
+    link: 'https://example.org/tasty-tacos'
   },
   {
     id: 5,
-    title: 'Senior Social Hour',
-    date: 'Fridays 2pm',
-    location: 'Community Center',
-    description: 'Games, conversation, and light snacks for seniors.',
-    link: 'https://example.org/seniors'
+    title: 'Seoul Bites',
+    date: 'Thu–Sun',
+    location: 'Corner of 5th & Pine',
+    description: 'Korean BBQ fusion — bulgogi tacos and kimchi fries.',
+    link: 'https://example.org/seoul-bites'
   },
   {
     id: 6,
-    title: 'Library Storytime',
-    date: 'Tuesdays 10am',
-    location: 'Kids Corner',
-    description: 'Stories and activities for ages 2-6.',
-    link: 'https://example.org/storytime'
+    title: "Rolling Pizza Co.",
+    date: 'Daily',
+    location: 'Market Plaza',
+    description: 'Wood-fired personal pizzas made to order.',
+    link: 'https://example.org/rolling-pizza'
   },
   {
     id: 7,
-    title: 'Community Bike Ride',
-    date: '2026-07-03',
-    location: 'Meeting at Town Hall',
-    description: 'Family-friendly 8-mile route, helmets required.',
-    link: 'https://example.org/bikeride'
+    title: "Mama's Dumplings",
+    date: 'Sat',
+    location: 'Library Park',
+    description: 'Handmade dumplings and soup bowls.',
+    link: 'https://example.org/mamas-dumplings'
   },
   {
     id: 8,
-    title: 'Art Night: Open Studio',
-    date: 'First Thursday',
-    location: 'Art Loft',
-    description: 'Bring a project, share ideas, and get feedback.',
-    link: 'https://example.org/artnight'
+    title: 'Vegan Van',
+    date: 'Sun',
+    location: 'Community Center Lot',
+    description: 'Plant-based bowls, sandwiches, and desserts.',
+    link: 'https://example.org/vegan-van'
   },
   {
     id: 9,
-    title: 'Job Fair',
-    date: '2026-07-15',
-    location: 'Civic Center',
-    description: 'Local employers hiring; resume help available.',
-    link: 'https://example.org/jobfair'
+    title: 'BBQ Brothers',
+    date: 'Fri',
+    location: 'Warehouse Row',
+    description: 'Smoked brisket, ribs, and house BBQ sauce.',
+    link: 'https://example.org/bbq-brothers'
   },
   {
     id: 10,
-    title: 'Neighborhood Safety Meeting',
-    date: '2026-06-30',
-    location: 'Firehouse',
-    description: 'Discuss community safety plans with local officers.',
-    link: 'https://example.org/safety'
+    title: 'Crepe Corner',
+    date: 'Sat & Sun',
+    location: 'Ferry Terminal',
+    description: 'Sweet and savory crepes — perfect for dessert.',
+    link: 'https://example.org/crepe-corner'
   }
 ]
 
