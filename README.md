@@ -1,10 +1,9 @@
 Community Board — Events & Resources
 
-Submitted by: **Your Name Here**
+Submitted by: **Khushal Sai Kolagani**
 
 This web app: **A community events & resources board showing upcoming events and links**
 
-Time spent: **X** hours spent in total
 
 ## Required Features
 
