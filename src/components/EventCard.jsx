@@ -10,7 +10,7 @@ function makePlaceholderDataUrl(text){
   return `data:image/svg+xml;charset=utf-8,${encodeURIComponent(svg)}`
 }
 
-export default function EventCard({ title, date, location, description, link, image }) {
+export default function EventCard({ title, date, location, description, image, onViewMenu }) {
   const placeholder = makePlaceholderDataUrl(title || 'Image')
 
   function handleError(e){
@@ -27,7 +27,7 @@ export default function EventCard({ title, date, location, description, link, im
       <p className="meta">{date} — {location}</p>
       <p className="desc">{description}</p>
       <div className="card-actions">
-        <a className="btn" href={link} target="_blank" rel="noopener noreferrer">View Menu</a>
+        <button className="btn" type="button" onClick={onViewMenu}>View Menu</button>
       </div>
     </article>
   )
