@@ -50,7 +50,7 @@ Open http://localhost:5173 in your browser.
 
 ## License
 
-Copyright 2026 Your Name Here
+Copyright 2026 Khushal Sai Kolagani
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
